@@ -3,5 +3,9 @@
 This is a weather application built using Angular 19, designed to provide users with current and forecast weather information for various locations worldwide.
 
 ## Overview
-When you search the city I implemented an API request to Weather API([https://www.weatherapi.com/]) to show information about weather
+I implemented an API request to Weather API([https://www.weatherapi.com/]) to show information about weather for a searched city.
+![Screenshot 2025-01-19 135358](https://github.com/user-attachments/assets/46afc86c-945e-47cd-ac4d-8555310dc254)
+![Screenshot 2025-01-19 135519](https://github.com/user-attachments/assets/3821a843-7b43-41ac-bf91-f0cf25c3a3f6)
+
+
 
